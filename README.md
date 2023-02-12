@@ -4,4 +4,6 @@ This system is submitted as our final project for Integrative Programming and Te
 
 As this project is no longer maintained, unfixed bugs on UI and functionalities can be expected throughout the execution.
 
+To run the system, please click the folder 'dist' and run the 'unit_rental_system.exe' file.
+
 Thank you!
